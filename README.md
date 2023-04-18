@@ -15,4 +15,4 @@ it works on both regular, and advanced computers of all types, including pocket 
 this os will implement advanced execution of programs, including sandboxing, running craftos code, and os plugins
 
 included os plugins:
-- [] GUI Server
+- [ ] GUI Server
