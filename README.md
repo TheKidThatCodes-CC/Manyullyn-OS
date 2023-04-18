@@ -16,5 +16,6 @@ this os will implement advanced execution of programs, including sandboxing, run
 
 included os plugins:
 - [ ] GUI Server
+
 included programs:
 - [ ] Package manager `pkg`
