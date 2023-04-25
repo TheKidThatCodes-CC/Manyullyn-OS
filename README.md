@@ -20,3 +20,4 @@ included os plugins:
 
 included programs:
 - [ ] Package manager `pkg`
+- [ ] Sandboxing Tool
